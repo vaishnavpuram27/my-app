@@ -1,0 +1,121 @@
+* {
+  text-align: center;
+
+}
+
+.class{
+  background-color: #5885AF;
+}
+.fun{
+  background-color: #282c34;
+  color: white;
+}
+.box{
+  border: 2px black solid;
+  margin: 10px;
+}
+.greet{
+  background-color: #C3E0E5;
+}
+.buttonPage{
+  background-color: #A49393;
+  margin: 30px;
+}
+.buttonPage button{
+  margin: 20px;
+  height: 100px;
+  width: 400px;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 10%;
+  background-color: aqua;
+  transition: 2ms;
+  padding: 10px;
+}
+.buttonPage button:hover{
+  background-color: #E8B4B8;
+}
+.countPage{
+  background-color: #A49393;
+
+}
+.counterPage{
+
+  display: flex;
+  margin: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.counterPage button{
+  margin: 20px;
+  height: 100px;
+  width: 100px;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 10%;
+  background-color: aqua;
+  transition: 2ms;
+  padding: 10px;
+}
+.counterPage button:hover{
+  background-color: #E8B4B8;
+}
+
+.tilesPage{
+  padding: 20px;
+  background-color: #B7C4CF;
+  font-weight: bold;
+}
+/* 
+.tilesPage .submit-button{
+  width: 100px;
+  height: 50px;
+  margin: 20px;
+  border-radius: 20%;
+  background-color: #E8B4B8;
+}
+.tiles{
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+
+} */
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.change{
+  margin: 20px;
+  background-color: #E8B4B8;
+  font-weight:bold ;
+} */
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
